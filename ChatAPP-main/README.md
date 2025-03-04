@@ -19,7 +19,6 @@ A real-time chat application built using the **MERN Stack (MongoDB, Express.js, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ankitpathak62/ChatAPP.git
    cd ChatAPP
    ```
 
